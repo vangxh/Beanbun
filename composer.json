@@ -3,6 +3,7 @@
     "description" : "Beanbun 是用 PHP 编写的多进程网络爬虫框架，具有良好的开放性、高可扩展性",
     "type": "application",
     "keywords": ["spider", "crawler", "scraper"],
+    "author": "vangxh",
     "license": "MIT",
     "require": {
         "php": "^7.0",
