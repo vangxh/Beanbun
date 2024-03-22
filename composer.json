@@ -6,7 +6,7 @@
     "author": "vangxh",
     "license": "MIT",
     "require": {
-        "php": "^7.0",
+        "php": ">=7.0",
         "workerman": "^4.1",
         "guzzlehttp/guzzle": "^6.0"
     },
